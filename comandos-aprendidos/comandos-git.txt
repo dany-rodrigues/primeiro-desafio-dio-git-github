@@ -1,0 +1,50 @@
+**listar ** ls
+
+**limpar terminal** ctrl + l(atalho)
+
+**navegar por um local específico** cd + <nome do diretório>
+
+**completar escrita** cd <nom+tab>(atalho)
+
+**criar diretório** mkdir + <nome do diretório>
+
+**criar um arquivo** echo <nome do repositório>
+
+**deletar diretório** del + <nome do diretório>
+
+**deletar repositório** rmdir + <nome do diretório> + /S/Q
+
+**ver diretório oculto** ls -a
+
+**inicializar repositório** git init
+
+**ver status** git status
+
+**adicionar** git add
+
+**comitar** git commit -m + <"mensagem">
+
+**mover diretório** mv + <nome do diretório> ./<nome do diretório para onde vou mover>
+
+**adicinar toda modificação em diretório** git add.
+
+**voltar uma "casa"** cd ..
+
+**voltar para repositório específico** git rastore-starget <nome do repositório>
+
+**enviar commit para github** git push origin master
+
+**puxar commit do github** git pull + <nome do repositório> + master
+
+**clonar repositório** git clone + <link>
+
+**exibir configurações** git config --list
+
+**alterar username/email** git config --global user.nickname <"nome/email">
+
+**apagar username/email** git config --global --unset user.nickname/email
+
+
+
+
+
